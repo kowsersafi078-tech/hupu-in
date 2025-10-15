@@ -1,5 +1,6 @@
-# Object file
+hello friend # Object file
 *.o
 
 # Ada Library Information
 *.ali
+all file reset .in
